@@ -1,0 +1,39 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 9.0.x
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build solution
+      run: dotnet build --no-restore --configuration Release
+
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal --configuration Release
+
+    - name: Publish API & UI (optional)
+      run: |
+        dotnet publish BMI.UI -c Release -o BMI.UI.Publish
+        mkdir -p BMI.API/wwwroot
+        cp -r BMI.UI.Publish/wwwroot/* BMI.API/wwwroot/
+        dotnet publish BMI.API -c Release -o Deploy
+
+    - name: List deployed files
+      run: ls -R Deploy

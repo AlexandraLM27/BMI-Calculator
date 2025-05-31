@@ -1,0 +1,44 @@
+﻿@page "/bmi"
+@using BMI.UI.Models
+@inject HttpClient Http
+
+<h3>BMI Calculator</h3>
+
+<EditForm Model="@request" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label>Height (cm):</label>
+        <InputNumber @bind-Value="request.HeightCm" />
+    </div>
+    <div>
+        <label>Weight (kg):</label>
+        <InputNumber @bind-Value="request.WeightKg" />
+    </div>
+    <button type="submit">Calculate</button>
+</EditForm>
+
+@if (result is not null)
+{
+    <p><strong>BMI:</strong> @result.Bmi</p>
+    <p><strong>Category:</strong> @result.Category</p>
+}
+
+@code {
+    private BmiRequest request = new();
+    private BmiResponse? result;
+
+    private async Task HandleSubmit()
+    {
+        var response = await Http.PostAsJsonAsync("http://localhost:5015/api/bmi", request);
+        if (response.IsSuccessStatusCode)
+        {
+            result = await response.Content.ReadFromJsonAsync<BmiResponse>();
+        }
+        else
+        {
+            result = null;
+        }
+    }
+}

@@ -1,0 +1,1245 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\BMI.UI.styles.css",
+      "PackagePath": "staticwebassets\\BMI.UI.styles.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\BMI.UI.styles.css.br",
+      "PackagePath": "staticwebassets\\BMI.UI.styles.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\BMI.UI.styles.css.gz",
+      "PackagePath": "staticwebassets\\BMI.UI.styles.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\BMI.UI.utec42m5ir.wasm",
+      "PackagePath": "staticwebassets\\_framework\\BMI.UI.utec42m5ir.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\BMI.UI.utec42m5ir.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\BMI.UI.utec42m5ir.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\BMI.UI.utec42m5ir.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\BMI.UI.utec42m5ir.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Forms.sxuye9wrru.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.Web.8aczv0pelf.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.sgbqg9g0bx.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.AspNetCore.Components.l6uvwmtp22.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Abstractions.qycoarjeru.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.Json.j66pezmcjo.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Configuration.pvawjtuhi4.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.l9716jag6r.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.DependencyInjection.vdgbrs4or0.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.Abstractions.41c3tqmqvg.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Logging.dypcmt2k1c.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Options.ffu15vsa0k.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.Extensions.Primitives.wdgxpgsqcr.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.WebAssembly.lsljofql11.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\Microsoft.JSInterop.osc8jgovue.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Concurrent.7f0usc4ymu.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Immutable.ef1yu5ny8p.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.NonGeneric.6o2wb88be1.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.Specialized.kxwvs9knkq.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.ys60ylrycr.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.ys60ylrycr.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.ys60ylrycr.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.ys60ylrycr.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Collections.ys60ylrycr.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Collections.ys60ylrycr.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.076m38u6l8.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.076m38u6l8.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.076m38u6l8.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.076m38u6l8.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.076m38u6l8.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.076m38u6l8.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Annotations.xjumm43rnn.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.Primitives.gu38u435ry.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.ComponentModel.TypeConverter.mk611xcnig.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Console.7n67arx7bd.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Console.7n67arx7bd.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Console.7n67arx7bd.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Console.7n67arx7bd.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Console.7n67arx7bd.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Console.7n67arx7bd.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Diagnostics.DiagnosticSource.4ftkfrxd4q.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.IO.Pipelines.7s27r4gsva.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.8vdcunv1ej.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.8vdcunv1ej.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.8vdcunv1ej.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.8vdcunv1ej.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.8vdcunv1ej.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.8vdcunv1ej.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Linq.Expressions.5keaquv3f9.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Memory.gxk30wm3qo.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Memory.gxk30wm3qo.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Memory.gxk30wm3qo.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Memory.gxk30wm3qo.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Memory.gxk30wm3qo.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Memory.gxk30wm3qo.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.92kky7v5tu.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.92kky7v5tu.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.92kky7v5tu.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.92kky7v5tu.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.92kky7v5tu.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.92kky7v5tu.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Http.Json.vim83s6rpr.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Primitives.9x72ktbyas.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Primitives.9x72ktbyas.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Primitives.9x72ktbyas.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Primitives.9x72ktbyas.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Net.Primitives.9x72ktbyas.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Net.Primitives.9x72ktbyas.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.ObjectModel.wgm2i2b0yp.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.CoreLib.335765ontz.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.CoreLib.335765ontz.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.CoreLib.335765ontz.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.CoreLib.335765ontz.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.CoreLib.335765ontz.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.CoreLib.335765ontz.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.Uri.137ccgcklz.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.Uri.137ccgcklz.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.Uri.137ccgcklz.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.Uri.137ccgcklz.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Private.Uri.137ccgcklz.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Private.Uri.137ccgcklz.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.1dvnbjeqsg.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.1dvnbjeqsg.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.1dvnbjeqsg.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.1dvnbjeqsg.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.1dvnbjeqsg.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.1dvnbjeqsg.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Runtime.Serialization.Primitives.6wjui9dnma.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Encodings.Web.5w28q6ifw5.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Json.s4hd0shyyi.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Json.s4hd0shyyi.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Json.s4hd0shyyi.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Json.s4hd0shyyi.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.Json.s4hd0shyyi.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.Json.s4hd0shyyi.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.Text.RegularExpressions.gjrc7fe0iy.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.f0fr8djds0.wasm",
+      "PackagePath": "staticwebassets\\_framework\\System.f0fr8djds0.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.f0fr8djds0.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\System.f0fr8djds0.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\System.f0fr8djds0.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\System.f0fr8djds0.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.boot.json",
+      "PackagePath": "staticwebassets\\_framework\\blazor.boot.json"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.boot.json.br",
+      "PackagePath": "staticwebassets\\_framework\\blazor.boot.json.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.boot.json.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.boot.json.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.webassembly.js.br",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\blazor.webassembly.js.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.js",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.js.br",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.js.gz",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.3c4wvb350q.wasm",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.3c4wvb350q.wasm"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.3c4wvb350q.wasm.br",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.3c4wvb350q.wasm.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.3c4wvb350q.wasm.gz",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.3c4wvb350q.wasm.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.hvg7u8bimp.js",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.hvg7u8bimp.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.hvg7u8bimp.js.br",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.hvg7u8bimp.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.native.hvg7u8bimp.js.gz",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.native.hvg7u8bimp.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.runtime.cymp1amu5g.js",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.runtime.cymp1amu5g.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.runtime.cymp1amu5g.js.br",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.runtime.cymp1amu5g.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\dotnet.runtime.cymp1amu5g.js.gz",
+      "PackagePath": "staticwebassets\\_framework\\dotnet.runtime.cymp1amu5g.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat",
+      "PackagePath": "staticwebassets\\_framework\\icudt_CJK.tjcz0u77k5.dat"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.br",
+      "PackagePath": "staticwebassets\\_framework\\icudt_CJK.tjcz0u77k5.dat.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat.gz",
+      "PackagePath": "staticwebassets\\_framework\\icudt_CJK.tjcz0u77k5.dat.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat",
+      "PackagePath": "staticwebassets\\_framework\\icudt_EFIGS.tptq2av103.dat"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.br",
+      "PackagePath": "staticwebassets\\_framework\\icudt_EFIGS.tptq2av103.dat.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat.gz",
+      "PackagePath": "staticwebassets\\_framework\\icudt_EFIGS.tptq2av103.dat.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat",
+      "PackagePath": "staticwebassets\\_framework\\icudt_no_CJK.lfu7j35m59.dat"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.br",
+      "PackagePath": "staticwebassets\\_framework\\icudt_no_CJK.lfu7j35m59.dat.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat.gz",
+      "PackagePath": "staticwebassets\\_framework\\icudt_no_CJK.lfu7j35m59.dat.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\css\\app.css.br",
+      "PackagePath": "staticwebassets\\css\\app.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\css\\app.css.gz",
+      "PackagePath": "staticwebassets\\css\\app.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\index.html.br",
+      "PackagePath": "staticwebassets\\index.html.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\index.html.gz",
+      "PackagePath": "staticwebassets\\index.html.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map.gz"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\sample-data\\weather.json.br",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json.br"
+    },
+    {
+      "Id": "D:\\ProiectMetDezv\\BMI-Calculator\\BMI.API\\wwwroot\\sample-data\\weather.json.gz",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json.gz"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.BMI.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.BMI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.BMI.API.props",
+      "PackagePath": "build\\BMI.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BMI.API.props",
+      "PackagePath": "buildMultiTargeting\\BMI.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.BMI.API.props",
+      "PackagePath": "buildTransitive\\BMI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
