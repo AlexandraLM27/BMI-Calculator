@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Publish folders
+Deploy/
+BMI.UI.Publish/
+
+# ASP.NET / Blazor static files
+wwwroot/
+**/wwwroot/
+!BMI.API/wwwroot/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv (API keys, secrets etc.)
+.env
+.env.*
